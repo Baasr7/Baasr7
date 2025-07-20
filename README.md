@@ -43,8 +43,8 @@
 
 ### 🔧 Projects
 
-[![RestoRank](https://img.shields.io/badge/RestoRank-%23C9C5B1.svg?style=for-the-badge&logoColor=black)](https://baasr7.github.io/Web_Final/) :- A restaurent Ranking System (Proof Of Concept)
-
+[![RestoRank](https://img.shields.io/badge/RestoRank-%23C9C5B1.svg?style=for-the-badge&logoColor=black)](https://baasr7.github.io/Web_Final/) :- A restaurent Ranking System (Proof Of Concept)<br/>
+[![Spin Wheel](https://img.shields.io/badge/Spin%20Wheel-%23386641.svg?style=for-the-badge&logoColor=white)](https://baasr7.github.io/Spin-Wheel/index1.html) :-Spin the Wheel Witch eliminates the chosen option (vibecoded ;) )
 
 
 ### 👀 Profile visits
