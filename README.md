@@ -6,7 +6,7 @@
 ### About Me :)
 - Electronics And Communication Student
 - Eager to work on IoT and MCP projects.
-- Currently Learning about MCP(Model Context Protocol)
+- Currently Learning about workflow automations
 
 
 
@@ -21,6 +21,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 
 
