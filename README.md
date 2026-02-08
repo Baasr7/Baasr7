@@ -47,7 +47,7 @@
 
 [![RestoRank](https://img.shields.io/badge/RestoRank-%23C9C5B1.svg?style=for-the-badge&logoColor=black)](https://baasr7.github.io/Web_Final/) :- A restaurent Ranking System (Proof Of Concept)<br/>
 [![Spin Wheel](https://img.shields.io/badge/Spin%20Wheel-%23386641.svg?style=for-the-badge&logoColor=white)](https://baasr7.github.io/Spin-Wheel/index1.html) :-Spin the Wheel Witch eliminates the chosen option (vibecoded ;) )<br/>
-[![Crypto Price Tracker](https://img.shields.io/badge/Crypto%20Price%20Tracker-%fffff.svg?style=for-the-badge&logoColor=white)](image.png) :- workflow that automatically displays the prices of top cryptocurrencies every minute. cannot share the workflow as it is a paid feature<br/>
+[![Crypto Price Tracker](https://img.shields.io/badge/Crypto%20Price%20Tracker-%23FFFFFFsvg?style=for-the-badge&logoColor=white)](assets/image.png) :- workflow that automatically displays the prices of top cryptocurrencies every minute. cannot share the workflow as it is a paid feature<br/>
 
 
 ### 👀 Profile visits
